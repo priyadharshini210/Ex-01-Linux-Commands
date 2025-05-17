@@ -1,5 +1,6 @@
 # Ex-01-Linux-Commands
-
+# Name : Priyadharshini.P
+# Reg no: 212223240128
 
 ## Aim:
 
